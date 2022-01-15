@@ -1,0 +1,96 @@
+#heading
+{
+width:100%;
+height:60%;
+float:left;
+}
+
+#menu
+{   width:20%;
+	height:20%;
+	float:left;
+}
+#menuText
+{
+	text-decoration:none;
+	color:blue;
+}
+#tableStyle
+{
+
+     
+	 border-collapse:separate; 
+     border-spacing:0 38px; 
+
+    
+   
+}
+
+#button1,#button2,#button3,#button4,#button5,#button6,#button7,#button8,#button9,#button10,#button11,#button13
+{
+	border-radius:12px;
+	
+}
+#button12
+{
+	border-radius:12px;
+	width:100px;
+	height:30px;
+	color:white; 
+	background-color:blue;
+}
+
+#labelStyle
+{
+	
+	color:white;
+}
+#socialIcons
+{
+	width:3%;
+	height:25%;
+	padding-left:10px;
+}
+#Mobdiv12,#Mobdiv13,#Mobdiv14
+{
+	
+
+	display:none;
+	height:110%;
+    width:80%;
+	float:left;
+}
+#Mobdiv
+{
+	
+
+	height:125%;
+    width:80%;
+	float:left;
+	
+}
+#Mobdiv1,#Mobdiv2,#Mobdiv3,#Mobdiv4,#Mobdiv6,#Mobdiv7,#Mobdiv8,#Mobdiv9,#Mobdiv10,#Mobdiv11
+{
+	
+	display:none;
+	height:110%;
+    width:80%;
+	float:left;
+	
+}
+
+#footer
+{
+	width:100%;
+	height:20%;
+	border-radius:12px;
+	background-color:black;
+	float:left;
+}
+#Hstyle
+{
+	padding-bottom:300px;
+	float:left;
+	font-size:50px;
+
+}
